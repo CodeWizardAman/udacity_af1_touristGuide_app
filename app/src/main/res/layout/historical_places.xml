@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/histWidthStyle"
+    android:padding="@dimen/rest_padding">
+
+    <TextView
+        android:id="@+id/place_title_id"
+        style="@style/titleText" />
+
+    <ImageView
+        android:id="@+id/historical_img_id"
+        style="@style/imgStyle"
+        android:layout_below="@id/place_title_id" />
+
+    <LinearLayout
+        style="@style/histWidthStyle"
+        android:layout_below="@id/historical_img_id"
+        android:layout_marginTop="@dimen/hist_margin"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/historical_desc_id"
+            style="@style/histWidthStyle" />
+
+        <TextView
+            android:id="@+id/historical_add_id"
+            style="@style/histWidthStyle" />
+
+        <TextView
+            android:id="@+id/historical_timings_id"
+            style="@style/histWidthStyle" />
+
+        <TextView
+            android:id="@+id/historical_built_id"
+            style="@style/histWidthStyle" />
+
+        <TextView
+            android:id="@+id/historical_contact_id"
+            style="@style/histWidthStyle" />
+
+        <TextView
+            android:id="@+id/historical_architecture_id"
+            style="@style/histWidthStyle" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

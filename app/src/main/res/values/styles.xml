@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="tabs">
+        <item name="tabBackground">@color/colorDarkCyan</item>
+        <item name="tabIndicatorColor">@color/colorDarkCyan</item>
+        <item name="tabSelectedTextColor">@color/colorCyan</item>
+        <item name="tabTextAppearance">@style/tabsText</item>
+    </style>
+
+    <style name="tabsText" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="titleText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@color/colorGreen</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="imgStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">200dp</item>
+    </style>
+    <style name="histWidthStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="eventTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="linearStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="cenHorizonStyle">
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+</resources>

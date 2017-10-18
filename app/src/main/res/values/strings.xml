@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">PuneTouristApp</string>
+
+    <string name="about_city_title">About Pune City</string>
+    <string name="about_city_desc">Pune is s the second largest city in the Indian state of Maharashtra and the seventh most populous city in the country. Situated 560 metres (1,837 feet) above sea level on the Deccan plateau on the right bank of the Mutha river.</string>
+    <string name="about_geo_title">About Pune Geography</string>
+    <string name="about_geo_desc">Pune is at a height of 560 m (1,840 ft) above sea level on the western margin of the Deccan plateau. It is on the leeward side of the Sahyadri mountain ranges, which forms a barrier from the Arabian Sea. It is a hilly city, with its highest hill, Vetal Hill, rising to 800 m (2,600 ft) above sea level. Just outside the city, the Sinhagad fort is at an altitude of 1,300 metres (4,300 feet).</string>
+    <string name="about_climate_title">Pune Climate</string>
+    <string name="about_climate_desc">Pune has a hot semi-arid climate (BSh) bordering with tropical wet and dry (Aw) with average temperatures ranging between 19 to 33 °C (66 to 91 °F). Pune experiences three seasons: summer, monsoon, and winter. Typical summer months are from mid-March to June often extending until 15 June, with maximum temperatures sometimes reaching 42 °C (108 °F). The warmest month in Pune is May; although summer does not end until mid-June.</string>
+    <string name="about_eco_title">About Pune Economy</string>
+    <string name="about_eco_desc">Pune has the eighth largest metropolitan economy and the sixth highest per capita income in the country.[69]Automotive companies such as Bajaj Auto, Tata Motors, Mahindra and Mahindra, Mercedes Benz, Force Motors (Firodia-Group), Kinetic Motors, General Motors, Land Rover, Jaguar, Renault, Volkswagen, and Fiat have set up greenfield facilities near Pune, leading The Independent to cite Pune as "Motor City"</string>
+
+    <string name="rest1_loc">Address: SB Road, Near Post-Office, Pune</string>
+    <string name="rest2_loc">Address: NorthRing road, Western Plaza, Pune</string>
+    <string name="rest3_loc">Address: Arthur road, Opposite BigMarket, Pune</string>
+    <string name="rest4_loc">Address: Mall road, High End Street, Pune</string>
+    <string name="rest5_loc">Address: Kemp road, Level Street, Pune</string>
+
+    <string name="rest1_desc">This high end hotel restaurant serves Italian favourites such as wood-fired pizzas and pasta dishes.</string>
+    <string name="rest2_desc">Chic contemporary chain dining room for traditional Italian food, gelato and some Mexican dishes.</string>
+    <string name="rest3_desc">South Indian staples served in comfy surroundings featuring outdoor tables with colourful umbrellas.</string>
+    <string name="rest4_desc">Hotel restaurant dishing up cuisines from across Asia amid large windows and wood accented decor.</string>
+    <string name="rest5_desc">Sandwiches, filled rolls and burgers make up the menu at this casual venue in a heritage building.</string>
+
+    <string name="rest1_name">Marzorin</string>
+    <string name="rest2_name">Seasonal Tastes</string>
+    <string name="rest3_name">The Great Punjab</string>
+    <string name="rest4_name">Santé Spa Cuisine</string>
+    <string name="rest5_name">Blue Nile</string>
+
+    <string name="rest1_contact">Phone: 020-2123739</string>
+    <string name="rest2_contact">Phone: 020-2028505</string>
+    <string name="rest3_contact">Phone: 020-2523437</string>
+    <string name="rest4_contact">Phone: 020-2673034</string>
+    <string name="rest5_contact">Phone: 020-2194538</string>
+
+
+    <string name="category_aboutCity">About City</string>
+    <string name="category_restaurants">Famous Restaurants</string>
+    <string name="category_events">NearBy Events</string>
+    <string name="category_histPlaces">Historical Places</string>
+
+    <string name="event1_name">Scuba Diving</string>
+    <string name="event1_desc">Absolute SCUBA is your one-stop shop specializing in Scuba Certification courses. Dive travel and Dive Equipment retail based out of the youthful and adventure-loving city of Pune, India</string>
+    <string name="event1_timings">Timings: Mon-Sat 10am-6pm</string>
+    <string name="event1_location">Address: Opposite McDonald, K-Square, Pune</string>
+    <string name="event1_contact">Phone: 020-3245879</string>
+
+    <string name="event2_name">Rambo Circus</string>
+    <string name="event2_desc">Always ahead in entertainment since 1991, Rambo Circus brings award winning circus artists from across the globe and with many unique attractions to boast of</string>
+    <string name="event2_timings">Timings: Thu-Sat 4pm-6pm</string>
+    <string name="event2_location">Address: Seasons Mall, Hadapsar, Pune</string>
+    <string name="event2_contact">Phone: 020-4667912</string>
+
+    <string name="event3_name">Android Workshop</string>
+    <string name="event3_desc">Learn to develop applications in the Anroid.Attendees will be provided with instructions to build and manage new cool applications during this 2 day workshop.</string>
+    <string name="event3_timings">Timings: Sat-Sun 3pm-9pm</string>
+    <string name="event3_location">Address: Phoenix Mall, Magarpatta, Pune</string>
+    <string name="event3_contact">Phone: 020-5646981</string>
+
+    <string name="event4_name">Musical Nights</string>
+    <string name="event4_desc">Sing and Scream All Night. Come, Join and Hav lots of fun whole night.</string>
+    <string name="event4_timings">Timings: Sat-Sun 10pm-4am</string>
+    <string name="event4_location">Address: Shivaji Nagar, Marriot, Pune</string>
+    <string name="event4_contact">Phone: 020-3245879</string>
+
+    <string name="event5_name">Lake Side Camping</string>
+    <string name="event5_desc">The exciting escape of lakeside camping at Bhandardara calls out to all the tired city souls out there to experience the serene and rejuvenating landscapes.</string>
+    <string name="event5_timings">Timings: Sat-Sun 7pm-7am</string>
+    <string name="event5_location">Address: Hotel LakeView, Hill Road, Bhandardara</string>
+    <string name="event5_contact">Phone: 020-5687658</string>
+
+    <string name="historical1_name">Shaniwar Wada</string>
+    <string name="historical1_desc">Shaniwarwada is a historical fortification in the city of Pune in Maharashtra, India. Built in 1732, it was the seat of the Peshwas of the Maratha Empire until 1818</string>
+    <string name="historical1_timings">Timings: Open Everyday 9Am-6pm</string>
+    <string name="historical1_location">Address: Shaniwar Peth, Pune, Maharashtra 411030</string>
+    <string name="historical1_contact">Contact: 020-26126867</string>
+    <string name="historical1_year">Year Built: 1732</string>
+    <string name="historical1_archstyle">Architecture Style: Maratha Empire</string>
+
+    <string name="historical2_name">Karla Caves</string>
+    <string name="historical2_desc">The Karla Caves, Karli Caves, Karle Caves or Karla Cells, are a complex of ancient Indian Buddhist rock-cut cave shrines located in Karli near Lonavala, Maharashtra.</string>
+    <string name="historical2_timings">Timings: Open Everyday 10am-4pm</string>
+    <string name="historical2_location">Address: Karla, Lonavala, Pune, Maharashtra 410405</string>
+    <string name="historical2_contact">Contact: 020-2612 6867</string>
+    <string name="historical2_year">Year Built: 800yrs old</string>
+    <string name="historical2_archstyle">Architecture Style: Ancient</string>
+
+    <string name="historical3_name">Lohgad Fort</string>
+    <string name="historical3_desc">Lohagad is one of the many hill forts of Maharashtra state in India.Lohagad rises to an elevation of 1,033 m above sea level.</string>
+    <string name="historical3_timings">Timings: Open Everyday 7am-7pm</string>
+    <string name="historical3_location">Address: Lonavala, Maharashtra</string>
+    <string name="historical3_contact">Contact: 020-2456978</string>
+    <string name="historical3_year">Year Built: 700yrs old</string>
+    <string name="historical3_archstyle">Architecture Style: Maratha Empire</string>
+
+    <string name="historical4_name">Sinhagad Fort</string>
+    <string name="historical4_desc">Sinhagad is a hill fortress located at around 25 km southwest to the city of Pune, India. The fort could have been built 2000 years ago.</string>
+    <string name="historical4_timings">Timings: Everyday 6am-9pm</string>
+    <string name="historical4_location">Address: Sinhgad, Pune</string>
+    <string name="historical4_contact">Contact: 020-2347580</string>
+    <string name="historical4_year">Year Built: 2000yrs ago</string>
+    <string name="historical4_archstyle">Architecture Style: Maratha Empire</string>
+
+    <string name="historical5_name">Pataleshwar Caves</string>
+    <string name="historical5_desc">Pataleshwar Cave Temple is a rock-cut cave temple, carved out in the 8th century in the Rashtrakuta period.</string>
+    <string name="historical5_timings">Timings: Open Everyday 9am-5pm</string>
+    <string name="historical5_location">Address: Jangali Maharaj Road, Shivajinagar, Pune, Maharashtra 411005</string>
+    <string name="historical5_contact">Contact: 020-2456986</string>
+    <string name="historical5_year">Year Built: 8th century</string>
+    <string name="historical5_archstyle">Architecture Style: Rashtrakuta Dynasty</string>
+
+</resources>
